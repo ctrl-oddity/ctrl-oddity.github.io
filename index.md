@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: ctrl-oddity | Programmer
 ---
-
-This is the landing page.
+I always put the user first while pushing myself towards clean code and simple iteration.

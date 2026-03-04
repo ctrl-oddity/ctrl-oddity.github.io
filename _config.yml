@@ -30,7 +30,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: jekyll
 
 header_pages:
-  - hello_world.md
+  - work.md
+  - hobby.md
+  - student.md
   - about.md
 
 # Build settings
